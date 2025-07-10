@@ -143,4 +143,4 @@ The analysis generates various files stored in the following directory structure
 
 ## Final Thoughts
 This analysis provides a comprehensive roadmap for the company’s entry into the movie industry. By budgeting strategically, prioritizing high-return genres, timing releases effectively, selecting top talent, and emulating Disney’s proven strategies, the company can achieve both financial success and critical acclaim.
-```
+
